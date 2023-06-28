@@ -1,1 +1,2 @@
-# Decoder_ring
+# Decoder_Ring-Thinkful 
+Our *first* group project
