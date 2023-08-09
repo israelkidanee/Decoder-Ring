@@ -16,19 +16,20 @@ This "message decoder app" enables a user to encode or decode messages using THR
 
 <h1>Cipher Screenshots</h1>
 <br>
-
 <h2>Caesar Shift Cipher</h2>
 <div>
-  <img src="https://github.com/israelkidanee/Decoder_Ring-Thinkful/blob/main/screenshots/Caesar.png" alt=Caesar Shift/>
+  <img src="https://github.com/israelkidanee/Decoder_Ring-Thinkful/blob/main/screenshots/Caesar.png" alt="Caesar Shift"/>
 </div>
 <br>
-
 <h2>Polybius Square Cipher</h2>
-Polybius Square Screenshot
+<div>
+  <img src="https://github.com/israelkidanee/Decoder_Ring-Thinkful/blob/main/screenshots/Polybius.png" alt= "Polybius Square Screenshot"/>
+</div>
 <br>
-
 <h2>Substitution Cipher</h2>
-Caesar Shift Screenshot
+<div>
+  <img src="https://github.com/israelkidanee/Decoder_Ring-Thinkful/blob/main/screenshots/Substitution.png" alt="Subsitution Shift Screenshot"/>
+</div>
 <br>
 <h2>Technology</h2>
 Built with Node.js
