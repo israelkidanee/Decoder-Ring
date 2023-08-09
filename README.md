@@ -18,7 +18,9 @@ This "message decoder app" enables a user to encode or decode messages using THR
 <br>
 
 <h2>Caesar Shift Cipher</h2>
-Caesar Shift Screenshot
+<div>
+  <img src="https://github.com/israelkidanee/Decoder_Ring-Thinkful/blob/main/screenshots/Caesar.png" alt=Caesar Shift/>
+</div>
 <br>
 
 <h2>Polybius Square Cipher</h2>
