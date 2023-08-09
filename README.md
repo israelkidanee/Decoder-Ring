@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 Decoder Ring Project
 Message Decoder App that enables a user to encode or decode messages using 3 different cipher algorithms detailed below.
 
