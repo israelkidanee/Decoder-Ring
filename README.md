@@ -10,7 +10,8 @@
 
 
 <h1> Decoder Ring Project </h1>
-Message Decoder App that enables a user to encode or decode messages using 3 different cipher algorithms detailed below.
+<p>You're planning a surprise birthday party for a friend who loves escape rooms and puzzles. What better way to practice your new coding skills than to build an application that will help you encode and decode all kinds of fun messages?</p>
+<p>"Message Decoder App that enables a user to encode or decode messages using 3 different cipher algorithms detailed below."</p>
 
 Cipher Screenshots
 Caesar Shift Cipher
