@@ -2,7 +2,9 @@
   <img src= "https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="300px"/>
 </div>
 <div id="badges">
+  <a href="https://www.linkedin.com/in/israel-kidane-368739270/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://twitter.com/israelkidane">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
