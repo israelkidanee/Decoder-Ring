@@ -14,21 +14,21 @@ You're planning a surprise birthday party for a friend who loves escape rooms an
 
 This "message decoder app" enables a user to encode or decode messages using THREE different cipher algorithms shown below.
 
-Cipher Screenshots
-Caesar Shift Cipher
-Caesar Shift Screenshot
+<h1>Cipher Screenshots</h1>
+<br>
 
-Polybius Square Cipher
+<h2>Caesar Shift Cipher</h2>
+Caesar Shift Screenshot
+<br>
+
+<h2>Polybius Square Cipher</h2>
 Polybius Square Screenshot
+<br>
 
-Substitution Cipher
+<h2>Substitution Cipher</h2>
 Caesar Shift Screenshot
-
-Technology
+<br>
+<h2>Technology</h2>
 Built with Node.js
 Tested with Mocha & Chai
-TODO:
-Restyle the Front-End to match brand colors
-Fix the description text to better explain the ciphers
-Allow all ciphers to ignore special characters to make the app more user friendly
-Potentially add additional ciphers
+
