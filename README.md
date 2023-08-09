@@ -12,7 +12,6 @@
 <h1> Decoder Ring Project </h1>
 You're planning a surprise birthday party for a friend who loves escape rooms and puzzles. What better way to practice your new coding skills than to build an application that will help you encode and decode all kinds of fun messages? 
 
-
 This "message decoder app" enables a user to encode or decode messages using THREE different cipher algorithms shown below.
 
 Cipher Screenshots
