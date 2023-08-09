@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Decoder Ring Project
+
+<h1> Decoder Ring Project </h1>
 Message Decoder App that enables a user to encode or decode messages using 3 different cipher algorithms detailed below.
 
 Cipher Screenshots
