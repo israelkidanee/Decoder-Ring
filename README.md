@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src= "https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47s8s6yprvyozded4z29eomt9iiwo0f1hdo4748op3&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
+  <img src= "(https://i.gifer.com/6tXM.gif)" width="100"/>
 </div>
 
 Decoder Ring Project
